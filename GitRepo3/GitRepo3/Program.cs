@@ -10,8 +10,9 @@ namespace GitRepo3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
             Console.WriteLine("Git Repo3");
-            Console.WriteLine("Version 1");
+            Console.WriteLine("Version 2");
             Console.WriteLine("By Clement Fabre");
             Console.Read();
         }
