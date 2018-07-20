@@ -16,6 +16,7 @@ namespace GitRepo3
             Console.WriteLine("By Clement Fabre");
             Console.WriteLine("Vu, modifie par Viet Hoang NGUYEN");
             Console.WriteLine("Modification approuvé par Clément Fabre");
+            Console.WriteLine("Version 4 par Clément Fabre");
             Console.WriteLine("version 4 par VHN");
             Console.Read();
         }
